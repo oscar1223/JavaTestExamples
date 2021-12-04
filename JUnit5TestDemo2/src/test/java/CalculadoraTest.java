@@ -16,7 +16,7 @@ class CalculadoraTest {
     @Test
     @DisplayName("Suma 5 y 5")
     void suma() {
-        assertEquals(10, calc.suma(5, 5));
+        assertEquals(80, calc.suma(5, 5));
     }
 
     @Test
