@@ -28,5 +28,4 @@ public class BasicSalaryCalculator {
 	  public double getAdditionalBonus() {
 	    return this.basicSalary / 10;
 	  }
-	  
 }
